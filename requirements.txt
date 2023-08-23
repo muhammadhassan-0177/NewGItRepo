@@ -1,3 +1,4 @@
+openai
 Flask
 selenium
 webdriver_manager
