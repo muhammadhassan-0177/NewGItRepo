@@ -1,8 +1,7 @@
-openai
 Flask
-python-dotenv
 selenium
 webdriver_manager
 requests
-beautifulsoup4
+bs4
 pandas
+python-dotenv
